@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm Currently Studying (Electronic Engineering)<br>I'm looking to collaborate with other  developmet<br>I'm currenty learning Cloud Computing (AWS).<br>i'm currently involved in hardware and firmware development.<br>I'm currenty learning Firmware embedded systems<br>I'm currenty learning  data analist<br>i'm currently working on the development of notebooks, for study material<br>I'm currently in a research group of (Control and digital signal processing)<br><br><br>
-
+I'm Currently Studying (Electronic Engineering)<br>I'm looking to collaborate with other  developmet<br>I'm currenty learning Cloud Computing (AWS).<br>i'm currently involved in hardware and firmware development.<br>I'm currenty learning Firmware embedded systems<br>I'm currenty learning  data analist<br>i'm currently working on the development of notebooks, for study material<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Edward Fabian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/edwardf.v5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Edward Fabian Goyeneche Velandia) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EdwardF1V5) 
